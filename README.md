@@ -36,7 +36,6 @@
 - 🌐 Portfolio: *(em construção)*
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julioGms-g)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julioGms-g&show_icons=true&theme=transparent)
 
