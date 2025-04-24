@@ -37,7 +37,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julioGms-g&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julioGms-g&show_icons=true&theme=dark)
 
 > "Automatizar é transformar o comum em inteligente. Cada linha de código que escrevo é um passo rumo a um futuro mais eficiente." – Julio César
 
